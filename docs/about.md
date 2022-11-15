@@ -3,28 +3,17 @@ id: about
 title: About
 ---
 
-I am currently attending GHC20 (Grace Hopper Celebration 2020). I began this portfolio in a workshop and it is the greatest idea ever!
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
-
-1. Your current position
-2. Organizations you're involved with
-3. Your personal and professional values
-4. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+I am currently attending Wake Tech Community College for an associate degree in Information Technology. I have many interests but art and coding are on top of the list.
+Some of my hobbies include drawing, reading, and baking. I am really passionate about world and character building and hope to create my own comic one day.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+College Student and Restaurant Host
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+- 2014 ESL Student of The Year at Durant Road Middle School
+- 2019 Graduated Magna Cum Laude from Millbrook High School
 
 ## Social Media
 
